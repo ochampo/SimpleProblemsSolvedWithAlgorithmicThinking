@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1e56220b-679c-4e6d-bde1-962e7178b33f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SimpleProblemsSolvedWithAlgorithmicThinking.py</StartupFile>
+    <StartupFile>100DoorsProblem.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="SimpleProblemsSolvedWithAlgorithmicThinking.py" />
+    <Compile Include="100DoorsProblem.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
